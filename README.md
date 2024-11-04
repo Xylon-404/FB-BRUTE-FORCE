@@ -31,7 +31,7 @@
 rm -rf FB-BRUTE-FORCE
 git clone https://github.com/Xylon-404/FB-BRUTE-FORCE.git
 cd FB-BRUTE-FORCE
-python ᶦᶰ࿇ᴮᴿɄ₮𝙴.py
+python  ƑB͛-ß𝚁ᵁ̽†𒈸.py
 ```
 
 #### USERNAME 
